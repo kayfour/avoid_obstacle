@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cloudera/Documents/MAVSDK_mine/examples/avoid_obstacle/avoid_obstacle.cpp
+iostream
+-
+chrono
+-
+thread
+-
+mavsdk/mavsdk.h
+-
+mavsdk/plugins/action/action.h
+-
+mavsdk/plugins/telemetry/telemetry.h
+-
+mavsdk/plugins/mission/mission.h
+-
+future
+-
+math.h
+-
+

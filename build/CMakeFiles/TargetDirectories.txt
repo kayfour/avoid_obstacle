@@ -1,0 +1,3 @@
+/home/cloudera/Documents/MAVSDK_mine/examples/avoid_obstacle/build/CMakeFiles/rebuild_cache.dir
+/home/cloudera/Documents/MAVSDK_mine/examples/avoid_obstacle/build/CMakeFiles/edit_cache.dir
+/home/cloudera/Documents/MAVSDK_mine/examples/avoid_obstacle/build/CMakeFiles/avoid_obstacle.dir
